@@ -1,2 +1,2 @@
 # Regression_NN
-A regression model using Neural Networks
+A regression model with Neural Networks using tensorflow
